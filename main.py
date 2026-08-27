@@ -53,7 +53,7 @@ def keep_alive():
 # --- End Flask Keep Alive ---
 
 # --- Configuration ---
-TOKEN = "8748551033:AAHvYBsSFnCBUq98F8v3qurz9pRgkvH5zds" #bot token dalo yeha
+TOKEN = "8748551033:AAGaDr0jSTlDJAAuUv5NJoE0PETxYpJ9zcc" #bot token dalo yeha
 OWNER_ID = 7327642910 #yha tumhra chat id dalo
 ADMIN_ID = 7327642910 #yeha koi admin ya tumhara chat id dalo
 YOUR_USERNAME = '@HELP_ZONE_01' #yeha tumhra username dala
