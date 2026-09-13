@@ -1,7 +1,0 @@
-pyTelegramBotAPI
-flask
-psutil
-requests
-pillow
-beautifulsoup4
-python-dotenv
